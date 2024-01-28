@@ -91,6 +91,4 @@
   </div>
  </div>
  
- <div class="flex justify-center items-end fixed bottom-0 w-full text-gray-600 py-20">
-   <p class="text-xl font-semibold font-mono"><span class="text-orange-500"><a href="https://kit.svelte.dev/" class="hover:underline">SvelteKit</a></span> + <span class="text-sky-400"><a href="https://tailwindcss.com/" class="hover:underline">TailwindCSS</a></span></p>
- </div>
+
